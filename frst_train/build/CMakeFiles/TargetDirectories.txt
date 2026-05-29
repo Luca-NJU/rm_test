@@ -1,0 +1,3 @@
+/home/liuchao/桌面/robomaster_code/build/CMakeFiles/bar.dir
+/home/liuchao/桌面/robomaster_code/build/CMakeFiles/edit_cache.dir
+/home/liuchao/桌面/robomaster_code/build/CMakeFiles/rebuild_cache.dir
